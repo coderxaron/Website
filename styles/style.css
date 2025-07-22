@@ -4,6 +4,10 @@ menu {
     background-color: lightslategrey;
     color: whitesmoke;
     top: 0;
+    width: 10cm;
+    border-color: black;
+    border: solid;
+    border-radius: 0.3cm;
 }
 
 a {
@@ -19,6 +23,11 @@ h1 {
 }
 
 h3 {
+    text-align: center;
+    color: whitesmoke;
+}
+
+h2 {
     text-align: center;
     color: white;
 }
